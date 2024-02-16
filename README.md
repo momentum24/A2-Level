@@ -28,5 +28,5 @@ Search How to do This
 
 #### Task 
 ~~~
-Uplad your implementation on a github repo
+Upload your implementation on a github repo
 ~~~
