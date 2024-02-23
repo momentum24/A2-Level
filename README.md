@@ -46,8 +46,21 @@ Upload your implementation on a github repo
 lists
 ~~~
 
+#### Day 1 
+
 * [Array Based](https://youtu.be/rNPSEjNDRkk?si=L2gcX7vTpqMJEzQ-)
+
+<p>&nbsp;</p>
+
+#### Day 2 
 
 * [Linked Based](https://youtu.be/rNPSEjNDRkk?si=L2gcX7vTpqMJEzQ-)
 
+<p>&nbsp;</p>
+
+#### Day 3 & 4 & 5
+
 * [Neso "important"](https://www.youtube.com/playlist?list=PLpYOpjNLz0aGIL9xaFHbw16uEmFxzy2rs)
+
+<p>&nbsp;</p>
+
