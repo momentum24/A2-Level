@@ -2,7 +2,7 @@
 
 ## Week_One
 
-#### content
+### content
 ~~~
         ----- Array based
 - Stack - 
@@ -40,7 +40,7 @@ Upload your implementation on a github repo
 
 ## Week Two
 
-#### content
+### content
 
 ~~~
 lists
@@ -64,3 +64,18 @@ lists
 
 <p>&nbsp;</p>
 
+#### Task
+
+* upload your implementation of the following functions & test evey on of them
+~~~
+- List_Init
+- List_Empty
+- List_Full
+- List_Size
+- List_Destroy
+- List_Traverse
+- List_Insert_Node
+- List_Delete_Node
+- List_Retrieve
+- List_Replace
+~~~
