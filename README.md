@@ -40,3 +40,14 @@ Upload your implementation on a github repo
 
 ## Week Two
 
+#### content
+
+~~~
+lists
+~~~
+
+* [Array Based](https://youtu.be/rNPSEjNDRkk?si=L2gcX7vTpqMJEzQ-)
+
+* [Linked Based](https://youtu.be/rNPSEjNDRkk?si=L2gcX7vTpqMJEzQ-)
+
+* [Neso "important"](https://www.youtube.com/playlist?list=PLpYOpjNLz0aGIL9xaFHbw16uEmFxzy2rs)
