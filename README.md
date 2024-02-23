@@ -66,7 +66,7 @@ lists
 
 #### Task
 
-* upload your implementation of the following functions & test evey on of them
+* upload your implementation of the following functions on github & test evey on of them
 ~~~
 - List_Init
 - List_Empty
