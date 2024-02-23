@@ -83,6 +83,7 @@ lists
 * you will two projects 
 
 1- stack Array based 
+
         {
                 it has two files first one is "list_interface.h" it has the prototypes of the functions
                 the second one is "list_program.c" it has the functions implementations  
@@ -90,6 +91,7 @@ lists
 
 
 2- stack linked based 
+
         {
                 it has two files first one is "list_interface.h" it has the prototypes of the functions
                 the second one is "list_program.c" it has the functions implementations  
