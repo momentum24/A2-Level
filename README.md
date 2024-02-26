@@ -4,27 +4,28 @@
 
 ### content
 ~~~
-        ----- Array based
-- Stack - 
-        ----- Linked based
-
-- From Dr walid youssef Course 
+- Stack  
 ~~~
+
 #### Day 1 & 2
-~~~
-- From lec 1 -> lec 5
-~~~
+* [Stack Array Based p1](https://youtu.be/JmlIHoqaj4I?si=i0-tKyNa0yTozSyi)
 
-#### Task Day 3 & 4 & 5
+* [Stack Array Based p2](https://youtu.be/ePRs24VWHtA?si=EG9BV3jSGbqJaTWz)
+
+* [Stack Array Based p3](https://youtu.be/kahbXJ_nQzU?si=h2zqVRj8OzMZNjmQ)
+
+
+#### Task_One Day 3 & 4 & 5
 [Task 1](https://drive.google.com/file/d/1XVwxRERrskTKKvnFj4kv1-xH9a9Fxt2J/view?usp=sharing)
 
 
 #### Day 6 & 7
-~~~
-- From lec 6 -> lec 9
-~~~
 
-#### Task 
+* [Stack Linked Based p1](https://youtu.be/m-FooXh-YzU?si=FhePExQrlEfKaYw-)
+
+* [Stack Linked Based p2](https://youtu.be/y98U74U3BBE?si=lYIHMT97TUn84bg6)
+
+#### Task_Two 
 ~~~
 Upload your implementation on a github repo
 ~~~
