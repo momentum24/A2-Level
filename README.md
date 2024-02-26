@@ -31,7 +31,7 @@
 
 #### Task_Two 
 ~~~
-Upload your implementation on a github repo
+Upload your implementation on github
 ~~~
 <p>&nbsp;</p>
 
