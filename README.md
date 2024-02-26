@@ -6,6 +6,7 @@
 ~~~
 - Stack  
 ~~~
+<p>&nbsp;</p>
 
 #### Day 1 & 2
 * [Stack Array Based p1](https://youtu.be/JmlIHoqaj4I?si=i0-tKyNa0yTozSyi)
@@ -14,21 +15,25 @@
 
 * [Stack Array Based p3](https://youtu.be/kahbXJ_nQzU?si=h2zqVRj8OzMZNjmQ)
 
+<p>&nbsp;</p>
 
 #### Task_One Day 3 & 4 & 5
 * [Task 1](https://drive.google.com/file/d/1XVwxRERrskTKKvnFj4kv1-xH9a9Fxt2J/view?usp=sharing)
 
+<p>&nbsp;</p>
 
 #### Day 6 & 7
 
 * [Stack Linked Based p1](https://youtu.be/m-FooXh-YzU?si=FhePExQrlEfKaYw-)
 
 * [Stack Linked Based p2](https://youtu.be/y98U74U3BBE?si=lYIHMT97TUn84bg6)
+<p>&nbsp;</p>
 
 #### Task_Two 
 ~~~
 Upload your implementation on a github repo
 ~~~
+<p>&nbsp;</p>
 
 #### Quiz 
 
