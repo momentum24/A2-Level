@@ -86,9 +86,9 @@ lists
 - List_Replace
 ~~~
 
-* you will two projects 
+* you will have two projects 
 
-1- stack Array based 
+1- List Array based 
 
         {
                 it has two files first one is "list_interface.h" it has the prototypes of the functions
@@ -96,7 +96,7 @@ lists
         }
 
 
-2- stack linked based 
+2- List linked based 
 
         {
                 it has two files first one is "list_interface.h" it has the prototypes of the functions
