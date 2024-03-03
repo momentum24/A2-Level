@@ -102,3 +102,20 @@ lists
                 it has two files first one is "list_interface.h" it has the prototypes of the functions
                 the second one is "list_program.c" it has the functions implementations  
         }
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+## Week_One
+
+### content
+~~~
+- Revision on week one & week two
+- introduction to queue
+~~~
+
+- Queue
+
+[Queue p1](https://youtu.be/sNgYno_BXQo?si=m4SLG_nHQ9eA4L9C)
+
