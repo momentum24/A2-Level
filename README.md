@@ -109,7 +109,7 @@ lists
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-## Week_One
+## Week_Three
 
 ### content
 ~~~
@@ -121,3 +121,22 @@ lists
 
 [Queue p1](https://youtu.be/sNgYno_BXQo?si=m4SLG_nHQ9eA4L9C)
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+## Week_Four
+
+### content
+~~~
+- Continue queue
+- searching algorithm
+linear search , Binary Search
+~~~
+
+- [Queue P2](https://youtu.be/UU7_Z0UgX-Y?si=jOgE7LhDPSRXgn7e)
+
+- [linear search](https://youtu.be/U1wy9kZzOGI?si=D2iM_8JvY4k-_RRM)
+
+- [Binary Search](https://youtu.be/qxhfkoDGGZc?si=5lPtgM41Iaua6VtF)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=26&color=%23DFC6B4&center=true&vCenter=true&lines=رمضان+كريم+🕌+🌙)](https://git.io/typing-svg)</h1>
