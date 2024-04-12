@@ -140,3 +140,24 @@ linear search , Binary Search
 - [Binary Search](https://youtu.be/qxhfkoDGGZc?si=5lPtgM41Iaua6VtF)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=26&color=%23DFC6B4&center=true&vCenter=true&lines=🕌+🌙+رمضان+كريم)](https://git.io/typing-svg)</h1>
+
+
+## Week_Five
+
+### content
+
+~~~
+- Embedded Systems concept
+~~~
+
+- [ES concept P1](https://youtu.be/2UlBGIGZEFk?si=BHmfsVRBrsmkgYi1)
+
+- [ES concept P2](https://youtu.be/kRlRcWB3aac?si=SIB-jJfCBgM8sKrR)
+
+- [ES concept P3](https://youtu.be/YcbnijCxLtQ?si=dTwiK4pcYsp63Fch)
+
+- [ES concept P4](https://youtu.be/iWZTOebN53E?si=_XY5W-heMi9Er4uO)
+
+- [ES concept P5](https://youtu.be/iWZTOebN53E?si=017pBIY4JObhTL4d)
+
+الجزء دا مهم جدا جدا وممتع في نفس الوقت ياريت تخلصوه وتعملوا ملخص ليه 
