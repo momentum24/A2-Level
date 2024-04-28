@@ -103,7 +103,7 @@ lists
                 the second one is "list_program.c" it has the functions implementations  
         }
 
-[Linked List Quiz](https://forms.gle/DpPoJpnT9mxNtzcw7)
+- [Linked List Quiz](https://forms.gle/DpPoJpnT9mxNtzcw7)
 
 
 <p>&nbsp;</p>
@@ -113,25 +113,11 @@ lists
 
 ### content
 ~~~
-- Revision on week one & week two
-- introduction to queue
-~~~
-
 - Queue
-
-[Queue p1](https://youtu.be/sNgYno_BXQo?si=m4SLG_nHQ9eA4L9C)
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-## Week_Four
-
-### content
-~~~
-- Continue queue
 - searching algorithm
-linear search , Binary Search
+- linear search , Binary Search
 ~~~
+- [Queue p1](https://youtu.be/sNgYno_BXQo?si=m4SLG_nHQ9eA4L9C)
 
 - [Queue P2](https://youtu.be/UU7_Z0UgX-Y?si=jOgE7LhDPSRXgn7e)
 
@@ -142,7 +128,7 @@ linear search , Binary Search
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=26&color=%23DFC6B4&center=true&vCenter=true&lines=🕌+🌙+رمضان+كريم)](https://git.io/typing-svg)</h1>
 
 
-## Week_Five
+## Week_Four
 
 ### content
 
@@ -156,15 +142,18 @@ linear search , Binary Search
 
 - [ES concept P3](https://youtu.be/YcbnijCxLtQ?si=dTwiK4pcYsp63Fch)
 
+
+
+## Week_Five
+
+### content
+
+~~~
+- continue Embedded Systems concept
+~~~
+
 - [ES concept P4](https://youtu.be/iWZTOebN53E?si=_XY5W-heMi9Er4uO)
 
 - [ES concept P5](https://youtu.be/iWZTOebN53E?si=017pBIY4JObhTL4d)
-
-الجزء دا مهم جدا جدا وممتع في نفس الوقت ياريت تخلصوه وتعملوا ملخص ليه 
-
-
-
-## Week_Six
-
 
 - [ES concept Quiz](https://forms.gle/61TErya9nMTE767C9)
